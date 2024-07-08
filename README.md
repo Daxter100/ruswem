@@ -1,2 +1,2 @@
 # ruswep
-Rust sweeper migration. To learn.
+Rust sweeper migration, from trashpysweeper. To learn.
