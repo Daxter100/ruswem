@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, mata changed world!");
+    println!("Hello, traveling world!");
 }
